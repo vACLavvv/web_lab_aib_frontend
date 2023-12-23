@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Генерация блоков с цветами</title>
+    <style>
+        .color-area {
+            width: 100%;
+            min-height: 300px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .color-block {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            cursor: pointer;
+        }
+
+        .color-box {
+            display: flex;
+            align-items: center;
+        }
+
+        .color-square {
+            width: 200px;
+            height: 200px;
+            border: 2px solid black;
+            margin-right: 20px;
+        }
+
+        .color-box-labels {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="color-box">
+        <div class="color-box-labels">
+            <label for="redInput">Red:</label>
+            <input type="number" id="redInput" min="0" max="255">
+            <label for="greenInput">Green:</label>
+            <input type="number" id="greenInput" min="0" max="255">
+            <label for="blueInput">Blue:</label>
+            <input type="number" id="blueInput" min="0" max="255">
+        </div>
+        <div id="colorSquare" class="color-square"></div>
+    </div>
+    <div class="color-box">
+        <button id="generateButton">Сгенерировать</button>
+    </div>
+    <div class="result-box">
+        <h2>Результат:</h2>
+        <div id="colorResult"></div>
+    </div>
+    <div class="color-area" id="colorArea"></div>
+    <script src="app.js"></script>
+</body>
+</html>
