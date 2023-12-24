@@ -1,68 +1,74 @@
-
-body {
-  min-width: 850px;
-
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 31px;
+  font-family: "William", serif;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 45px;
+  font-weight: normal;
 }
 
-  h1 {
-    margin-bottom: 0;
-    margin-top: 0;
-    padding-top: 45px;
-    color: #300c1c;
-    font-size: 31px;
-    font-weight: normal;
-    text-transform: uppercase;
-    font-style: italic;
-    font-family: "William", serif;
-  }
+h2
+{
+  color: white;
+  font-size: 31px;
+  font-family: "Inter", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 35px;
+}
 
-  h2 {
-    margin-top: 0;
-    margin-bottom: 35px;
-    color: #857678;
-    font-size: 31px;
-    font-weight: bold;
-    font-family: "Monotype Corsiva";
-  }
+h3
+{
+  color: white;
+  font-style: italic;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 18px;
+  font-weight: normal;
+}
 
-  h3 {
-    font-family: 'Inter', sans-serif;
-    font-size: 16px;
-    text-transform: uppercase;
-    line-height: 18px;
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-  }
+body
+{
+  min-width: 850px;
+}
 
-  img {
-    width: 210px;
-    margin-bottom: 35px;
-  }
+img
+{
+  width: 210px;
+  margin-bottom: 80px;
+}
 
-  a {
-    color: #DC143C;
-    text-decoration: none;
-  }
+div
+{
+  background-color: deepskyblue;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin: 0 auto 20px;
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,106,1) 48%, rgba(0,212,255,1) 100%);
+}
 
-  a:hover {
-    color: #DC143C;
-  }
+p
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-style: normal;
+  font-family: "William", serif;
+  font-weight: normal;
+  color: white;
+}
 
-  a:visited {
-    color: #DC143C;
-  }
+body
+{
 
-  div {
-    margin: 0 auto 20px;
-    text-align: center;
-    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
-    width: 500px;
-    height: 500px;
-  }
-  P {
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: "Inter", sans-serif;
-  }
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}

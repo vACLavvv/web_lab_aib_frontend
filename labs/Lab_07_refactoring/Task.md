@@ -86,9 +86,7 @@ alert('Затраты на ЗП' + d*k);
 
 ```js
 
-var klassSoStudentami = [{FIO:'Петров А.А.',Ocenka:5},
-    {FIO:'Иванов Б.Б.',Ocenka:3.4},{FIO:'Сидоров Г.Г.',Ocenka:9},
-    {FIO:'Немолодой Д.Д',Ocenka:2},{FIO:'Молодой Е.Е',Ocenka:3.4}];
+var klassSoStudentami = [{FIO:'Петров А.А.',Ocenka:5},{FIO:'Иванов Б.Б.',Ocenka:3.4},{FIO:'Сидоров Г.Г.',Ocenka:9},{FIO:'Немолодой Д.Д',Ocenka:2},{FIO:'Молодой Е.Е',Ocenka:3.4}];
 
 var s = 0;
 var kolichectvo = 0;

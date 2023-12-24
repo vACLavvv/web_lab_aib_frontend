@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0600472f-5102-4368-b9c3-e21aec0da5c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/Lab_03_html_intro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/Task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/base_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/base_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/img/album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/img/playlist-favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/task1/img/album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/task1/img/playlist-favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_03_html_intro/solution/task1/task_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Lab_04_CSS_intro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/playlist-favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/Lab_05_HTML_CSS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/Task.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/Task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/3.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/4.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/5.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/6.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/icons8-чайник-50.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/r1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/r1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/image/чайхана.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_05_HTML_CSS/solution/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_07_refactoring/Solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_07_refactoring/Solution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_07_refactoring/Task.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_07_refactoring/Task.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZzD2oCgiNuOvsHeoGaZyoPowQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0600472f-5102-4368-b9c3-e21aec0da5c1" name="Changes" comment="" />
+      <created>1703415809271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703415809271</updated>
+    </task>
+    <servers />
+  </component>
+</project>
